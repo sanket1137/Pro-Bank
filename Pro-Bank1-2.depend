@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573594146 source:d:\pro-bank upd\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+

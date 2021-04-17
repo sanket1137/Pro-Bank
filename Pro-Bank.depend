@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1565531677 source:d:\study\pro-bank\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1573205070 source:d:\study\books\pro-bank\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
